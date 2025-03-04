@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #000000; 
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/686182198/photo/somaliland-flag-against-city-blurred-background-at-sunrise-backlight.jpg?s=612x612&w=0&k=20&c=a_T5Qv5tqOij5IpqAf3kIT6DMZrjPnyOr6FXFpCjxPI=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    font-size: 45px;
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border-style: none;
+}
+
+.btn:hover{
+background-color: yellow;
+cursor: pointer;
+
+}
+
